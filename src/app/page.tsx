@@ -143,7 +143,7 @@ export default function HomePage() {
                 num: '02',
                 title: 'Earnings Ledger',
                 subtitle: 'Permanent, unified earnings record across all platforms',
-                body: 'Connect every gig platform — Uber, DoorDash, Lyft, Fiverr, Upwork, Instacart, and more — via Plaid. The Ledger aggregates all earnings into a single timeline. Export as CSV. Track monthly rollups. See your complete career earnings record in one place.',
+                body: 'Connect every gig platform — Uber, DoorDash, Lyft, Fiverr, Upwork, Instacart, and more — via Argyle. The Ledger aggregates all earnings into a single timeline. Export as CSV. Track monthly rollups. See your complete career earnings record in one place.',
                 accent: 'bg-action-blue',
               },
               {
@@ -234,7 +234,7 @@ export default function HomePage() {
               {
                 num: '01',
                 title: 'Connect platforms',
-                body: 'Link any combination of Uber, DoorDash, Lyft, Upwork, Fiverr, and more via Plaid. One tap per platform — encrypted, revocable.',
+                body: 'Link any combination of Uber, DoorDash, Lyft, Upwork, Fiverr, and more via Argyle. One tap per platform — encrypted, revocable.',
               },
               {
                 num: '02',
@@ -401,7 +401,7 @@ export default function HomePage() {
               </ul>
               <div className="mt-10">
                 <Link href="/register?plan=pro" className="btn-primary">
-                  Start free trial
+                  Get started free
                 </Link>
               </div>
             </div>
